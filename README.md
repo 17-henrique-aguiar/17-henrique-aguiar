@@ -1,7 +1,6 @@
 ## Oi sou Henrique👋
 
-- 🌱 Estudando Python, SQL
-- 🔭 Hoje trabalho com ciência de dados
+- 🌱 Estudando Ciência de Dados
 - 👯 Projetos Reais
 
 
