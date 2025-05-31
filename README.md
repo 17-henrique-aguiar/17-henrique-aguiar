@@ -25,6 +25,10 @@
 </div>
 
 
+![Snake animation](https://github.com/17-henrique-aguiar/17-henrique-aguiar/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <!--
 
 <a href="    " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  YOUTUBE
