@@ -25,7 +25,6 @@
 </div>
 
 
-![Snake animation](https://github.com/17-henrique-aguiar/17-henrique-aguiar/blob/output/github-contribution-grid-snake.svg)
 
 
 
