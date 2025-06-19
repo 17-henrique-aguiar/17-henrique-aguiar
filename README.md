@@ -1,6 +1,6 @@
 ## Oi sou Henrique👋
 
-- 🌱 Estudando Ciência de Dados
+- 🌱 Estudando Ciência de Dados e Programação
 - 👯 Projetos Reais
 
 
