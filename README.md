@@ -6,8 +6,8 @@
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=gruv&show_icons=true&hide_border=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=gruv&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=synthwave&show_icons=true&hide_border=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=synthwave&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
 
