@@ -43,3 +43,4 @@
 <img align="center" alt="teste-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TS
 <img align="center" alt="teste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;  CSS
 
+temas: nord, gotham, jolly, maroongold, blueberry, outrun, react, omni, midnight purple, vision friendly dark, algolia, blue green, nightowl, monokai, cobalt, tokyo night, merko, radical
