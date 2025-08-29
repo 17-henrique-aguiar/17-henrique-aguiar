@@ -9,7 +9,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=gotham&show_icons=true&hide_border=true&count_private=true">
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=gotham&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=gotham&show_icons=true&hide_border=true&layout=compact"/>
 
 </a>
 </div>
