@@ -20,17 +20,13 @@ temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, om
 
 
 
-### Minhas Habilidades
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-<div style="display: flex; gap: 20px;">
-  <div style="text-align: center;">
-    <i class="fab fa-python" style="font-size: 40px; color: #3776AB;"></i>
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
-    <i class="fab fa-js" style="font-size: 40px; color: #F7DF1E;"></i>
-    <p>JavaScript</p>
-  </div>
+<style>
+  .skill-icon { display: inline-block; margin: 5px; transition: transform 0.3s ease; }
+  .skill-icon:hover { transform: scale(1.2); } /* Cresce 20% ao passar o mouse */
+</style>
+<div style="display: inline-block;">
+  <img class="skill-icon" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img class="skill-icon" alt="teste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 
