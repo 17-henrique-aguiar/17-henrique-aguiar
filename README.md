@@ -10,7 +10,7 @@
   </div>
     
   <div style="text-align: center;">
-      <img alt="JavaScript" height="40" width="50" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
+      <img alt="JavaScript" height="400" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN0ZWVvdHpxM3Rvemhrbmo3Ymo0NW9jemEwd3gyNzJxdWphcGgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif">
       <p>JavaScript</p>
   </div>
   </div>
