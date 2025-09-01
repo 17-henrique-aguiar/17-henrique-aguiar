@@ -1,4 +1,4 @@
-<style
+<style>
   .skill-icon { display: inline-block; margin: 5px; transition: transform 0.3s ease; }
   .skill-icon:hover { transform: scale(1.2); } /* Cresce 20% ao passar o mouse */
 </style>
