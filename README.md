@@ -21,6 +21,7 @@ temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, om
 <div style="display: inline_block"><br>
 <img align="center" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="teste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
 </div>
 
 ##
