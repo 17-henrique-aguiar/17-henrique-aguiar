@@ -20,7 +20,7 @@ temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, om
 
 
 
-### Minhas Habilidad
+### Minhas Habilidades
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 <div style="display: flex; gap: 20px;">
   <div style="text-align: center;">
@@ -32,7 +32,6 @@ temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, om
     <p>JavaScript</p>
   </div>
 </div>
-</div>  
 
 
 ##
