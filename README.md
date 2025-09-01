@@ -7,7 +7,7 @@
   </div>
     
   <div style="text-align: center;">
-      <img alt="Python" height="40" width="50" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNhbzA4NW80bTNqdWliaXBqcnJncms0aWNmbjR4b3RteWt1OHpoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+      <img alt="Python" height="400" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNhbzA4NW80bTNqdWliaXBqcnJncms0aWNmbjR4b3RteWt1OHpoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
       <p>Python</p>
   </div>
     
