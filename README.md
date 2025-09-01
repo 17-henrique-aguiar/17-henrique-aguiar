@@ -46,4 +46,4 @@
 <img align="center" alt="teste-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> TS
 <img align="center" alt="teste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;  CSS
 
-temas: nord, gotham, jolly, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, vision friendly dark, algolia, blue green, nightowl, monokai, cobalt, tokyo night, merko, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast, sythwave, dark
+temas: nord, gotham 1x, jolly, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, vision friendly dark, algolia, nightowl, monokai, cobalt, tokyo night, merko, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast, sythwave, dark
