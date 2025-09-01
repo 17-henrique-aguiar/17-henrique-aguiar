@@ -18,54 +18,20 @@ temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, om
 </a>
 </div>
 
-<div
-<h3>Minhas Habilidades</h3>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-  .skill-item {
-    text-align: center;
-    transition: transform 0.3s ease;
-  }
-  .skill-item:hover {
-    transform: scale(1.2) rotate(10deg); /* Animação: cresce e gira ao hover */
-  }
-  .skill-icon {
-    font-size: 40px;
-    color: #007bff; /* Cor personalizável */
-  }
-</style>
-<div class="skills-container">
 
-  <div class="skill-item">
-    <i class="fab fa-python skill-icon"></i>
+
+### Minhas Habilidad
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<div style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <i class="fab fa-python" style="font-size: 40px; color: #3776AB;"></i>
     <p>Python</p>
   </div>
-
-  <div class="skill-item">
-    <i class="fab fa-js skill-icon"></i>
+  <div style="text-align: center;">
+    <i class="fab fa-js" style="font-size: 40px; color: #F7DF1E;"></i>
     <p>JavaScript</p>
   </div>
-
-  <div class="skill-item">
-    <i class="fab fa-react skill-icon"></i>
-    <p>React</p>
-  </div>
-
-  <div class="skill-item">
-    <i class="fab fa-git-alt skill-icon"></i>
-    <p>Git</p>
-  </div>
 </div>
-
-<div style="display: inline_block"><br>
-<img align="center" alt="teste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="teste-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
 </div>  
 
 
