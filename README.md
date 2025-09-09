@@ -6,13 +6,13 @@
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=monokai&show_icons=true&hide_border=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=merko&show_icons=true&hide_border=true&count_private=true">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=monokai&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=monokai&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=merko&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=merko&show_icons=true&hide_border=true&layout=compact"/>
 
 <!-- 
-temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia, nightowl, monokai 1x, cobalt, tokyo night, merko, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast, sythwave, dark
+temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia, nightowl, cobalt, tokyo night, merko, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast, sythwave, dark
 -->
 
 </a>
