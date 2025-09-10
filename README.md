@@ -1,7 +1,7 @@
 ## Oi sou Henrique👋
 
 - 🌱 Estudando Ciência de Dados e Programação
-- Aprendendo Python, HTML, CSS E JavaScript
+- 💻 Aprendendo Python, HTML, CSS E JavaScript
 - 👯 Projetos Reais
 
 
