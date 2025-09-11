@@ -1,3 +1,6 @@
+### Principais Repositórios
+- https://github.com/17-henrique-aguiar/Python
+
 ### Minhas Habilidades
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
