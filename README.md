@@ -1,5 +1,5 @@
 ### Principais Repositórios
-<a href="https://github.com/17-henrique-aguiar/Python" class="botao"> Repositório Python </a>
+[Repositório de Projetos em Python](https://github.com/17-henrique-aguiar/Python)
 
 ### Minhas Habilidades
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
