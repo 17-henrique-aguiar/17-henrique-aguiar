@@ -4,6 +4,13 @@
 ### Minhas Habilidades
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
 
+  ## 📌 Comparativo dos projetos
+
+| Projeto           | Tecnologias           | Link                                      |
+|-------------------|-----------------------|-------------------------------------------|
+| Proejtos em Pyhton      | Python e HTML         | [Ver repositório](https://github.com/17-henrique-aguiar/Python) |
+
+
   <div style="text-align: center;">
       <img alt="HTML" height="400" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG4zMXF6d2Q3cGIwdHdodDdudTJ6MTJrbjVodGd3azU0MmpxZW82OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRfNA1p0rvhMSvS/giphy.gif">
   </div>
