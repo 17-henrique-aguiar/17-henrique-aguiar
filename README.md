@@ -8,7 +8,7 @@
 
 | Projeto           | Tecnologias           | Link                                      |
 |-------------------|-----------------------|-------------------------------------------|
-| Proejtos em Pyhton      | Python e HTML         | [Ver repositório](https://github.com/17-henrique-aguiar/Python) |
+| Proejtos de Sistemas      | Python, tkinter e Streamlit         | [Ver repositório](https://github.com/17-henrique-aguiar/Python) |
 
 
   <div style="text-align: center;">
