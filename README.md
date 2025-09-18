@@ -13,7 +13,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
 
 <!-- 
-temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia, nightowl, cobalt, tokyo night, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark
+temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia, nightowl, cobalt, tokyo night, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark            
+https://beacons.ai/17-henrique-aguiar
 -->
 
 </a>
