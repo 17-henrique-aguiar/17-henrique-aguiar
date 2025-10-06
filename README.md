@@ -7,13 +7,13 @@
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=nightowl&show_icons=true&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=graywhite&show_icons=true&hide_border=true">
   
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=nightowl&hide_border=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=graywhite&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=graywhite&show_icons=true&hide_border=true&layout=compact"/>
 
 <!-- 
-temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia 1x, nightowl, cobalt, tokyo night, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark            
+temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia 1x, nightowl 1x, cobalt, tokyo night, radical 2x, yeblu, graywhite, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark            
 https://beacons.ai/17-henrique-aguiar
 -->
 
