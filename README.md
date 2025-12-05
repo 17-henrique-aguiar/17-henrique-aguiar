@@ -13,8 +13,8 @@
 </a>
 <!-- 
 temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia 1x, nightowl 1x, cobalt, tokyo night, radical 2x, yeblu, graywhite 1x, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark            
-https://beacons.ai/17-henrique-aguiar
 -->
+https://beacons.ai/17-henrique-aguiar
 </div>
 
 <div style="display: inline_block"><br>
