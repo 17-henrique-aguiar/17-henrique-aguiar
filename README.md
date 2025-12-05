@@ -4,6 +4,8 @@
 - 💻 Aprendendo Python, HTML e CSS 
 - 👯 Projetos Reais
 
+[![Harlok's WakaTime stats](https://her17-readme-stats.vercel.app/api/wakatime?username=17-henrique-aguiar)](https://github.com/17-henrique-aguiar/her17-readme-stats)
+
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
 <img height="220px" src="https://her17-readme-stats.vercel.app/api?username=17-henrique-aguiar&show_icons=true&theme=prussian&hide_border=true"> <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=prussian&hide_border=true">
