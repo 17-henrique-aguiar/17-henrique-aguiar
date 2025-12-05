@@ -6,8 +6,7 @@
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
-<img height="180cm" src="https://her17-readme-stats.vercel.app/api?username=17-henrique-aguiar&show_icons=true&theme=prussian&hide_border=true">
-<img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=prussian&hide_border=true">
+<img height="180cm" src="https://her17-readme-stats.vercel.app/api?username=17-henrique-aguiar&show_icons=true&theme=prussian&hide_border=true"> <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=prussian&hide_border=true">
 <img height="180cm" src="https://her17-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 <!-- 
