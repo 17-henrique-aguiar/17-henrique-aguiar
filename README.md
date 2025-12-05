@@ -4,6 +4,7 @@
 - 💻 Aprendendo Python, HTML e CSS 
 - 👯 Projetos Reais
 
+[![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true)](https://beacons.ai/17-henrique-aguiar)
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
@@ -13,8 +14,9 @@
 </a>
 <!-- 
 temas: nord, gotham 1x, jolly 1x, maroongold 1x, blueberry, outrun 1x, react, omni, midnight purple 1x, algolia 1x, nightowl 1x, cobalt, tokyo night, radical 2x, yeblu, graywhite 1x, chartreuse dark, great gatsby, blue-green, prussian, high contrast 1x, sythwave, dark            
--->
 https://beacons.ai/17-henrique-aguiar
+  -->
+
 </div>
 
 <div style="display: inline_block"><br>
