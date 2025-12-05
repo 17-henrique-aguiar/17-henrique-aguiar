@@ -11,7 +11,7 @@
 | Proejtos de Sistemas      | Python, tkinter e Streamlit         | [Ver repositório](https://github.com/17-henrique-aguiar/Python) |
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar)
+![Stats] (https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar)
 
 
 
