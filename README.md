@@ -4,7 +4,8 @@
 - 💻 Aprendendo Python, HTML e CSS 
 - 👯 Projetos Reais
 
-[![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true)](https://beacons.ai/17-henrique-aguiar)
+<img src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true" height="180px"/>
+
 
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
