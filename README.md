@@ -7,10 +7,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
 </picture>
+
 <div>
 <a href="https://beacons.ai/17-henrique-aguiar">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true">
