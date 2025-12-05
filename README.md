@@ -10,12 +10,8 @@
 |-------------------|-----------------------|-------------------------------------------|
 | Proejtos de Sistemas      | Python, tkinter e Streamlit         | [Ver repositório](https://github.com/17-henrique-aguiar/Python) |
 
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar&theme=prussian&show_icons=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17-henrique-aguiar&theme=prussian&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17-henrique-aguiar&theme=prussian&layout=compact)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=17-henrique-aguiar)
 
 
 <!--
